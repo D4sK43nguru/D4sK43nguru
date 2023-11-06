@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/D4sK43nguru/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/D4sK43nguru/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+
 <!--
 **D4sK43nguru/D4sK43nguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
